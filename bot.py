@@ -5,7 +5,8 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.utils import executor
 from collections import defaultdict
-from aiogram.contrib.fsm_storage.memory import MemoryStorage
+from aiogram.contrib.fsm_storage.memory 
+import MemoryStorage
 
 # Получаем токен из переменной окружения (Railway Variables)
 API_TOKEN = os.getenv("API_TOKEN")
