@@ -13,9 +13,9 @@ dp = Dispatcher(bot, storage=storage)
 
 # Список подарков — пример
 GIFTS = {
-    "gift1": {"name": "NFT Подарок #1", "price": 500},
-    "gift2": {"name": "NFT Подарок #2", "price": 1000},
-    "gift3": {"name": "NFT Подарок #3", "price": 1500},
+    "gift1": {"name": "Easter Egg #50055", "price": 1099},
+    "gift2": {"name": "Swag Bag #181815", "price": 1349},
+    "gift3": {"name": "Witch Hat #34306", "price": 3299},
 }
 
 # Рейтинг пользователей (просто пример)
